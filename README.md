@@ -1,16 +1,5 @@
-# riverpod_test
+# Flutter Testing Using Riverpod Example
 
-A new Flutter project.
+Further information about the project: [Medium](https://itnext.io/minimalist-guide-to-testing-in-flutter-part-3-automated-testing-f47e857f4e88)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cover](https://miro.medium.com/max/1400/1*S2lTApQUxAhZ1auK3YGawQ.jpeg)
